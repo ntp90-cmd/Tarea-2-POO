@@ -1,5 +1,5 @@
-public class Main {
-        public static void main(String[] args) {
+public class main {
+    public static void main(String[] args) {
 
        
         CuentaBancaria cuenta1 = new CuentaBancaria("Juan", "001", 1000);
@@ -25,7 +25,7 @@ public class Main {
         } else {
             System.out.println("No hay saldo suficiente en la cuenta de Maria");
         }
-        
+
         for (int i = 1; i <= 3; i++) {
             cuenta1.depositar(100);
         }
@@ -36,4 +36,5 @@ public class Main {
         System.out.println("Saldo final de Maria: " + cuenta2.consultarSaldo());
 
     }
+
 }
