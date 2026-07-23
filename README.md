@@ -1,2 +1,3 @@
 # Tarea-2-POO
-Esta ez mi segunda tarea en POO
+Obed Tot-26971 
+Ejercicio cuenta banco
